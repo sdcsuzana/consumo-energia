@@ -1,4 +1,4 @@
-# Calculo de gasto de um produto em kwh ⚡📺
+# Cálculo de gasto de um produto em kwh ⚡📺
 
 Projeto desenvolvido para que o cliente possa **calcular quantos kwh ele gasta por mês com um eletrodoméstico específico de sua preferência**.
 
